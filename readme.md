@@ -4,3 +4,6 @@
 
 Get all links and titles.
 
+## gunosynews
+
+get gunosynews.
